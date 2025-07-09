@@ -15,59 +15,6 @@
 </li>
 </ul>
 <hr></hr>
- 
-    <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="160.51" height="8" fill="#b07219"/>
-      
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="160.51" y="0" width="39.89" height="8" fill="#663399"/>
-      
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="200.39999999999998" y="0" width="32.79" height="8" fill="#e34c26"/>
-      
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="233.18999999999997" y="0" width="16.81" height="8" fill="#f1e05a"/>
-      
-      
-    <g transform="translate(0, 25)">
-      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#b07219"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Java 64.20%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#663399"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        CSS 15.96%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        HTML 13.12%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        JavaScript 6.72%
-      </text>
-    </g>
-  </g></g>
-    </g>
-  
-    </svg>
-  
-        </g>
-
 <!--
 **Suryavanshirohit/Suryavanshirohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
