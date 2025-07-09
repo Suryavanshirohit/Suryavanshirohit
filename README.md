@@ -1,4 +1,4 @@
-![image alt](https://github.com/Suryavanshirohit/Suryavanshirohit/blob/be05aceb20647ef6dd40947df48299e6ffa0cb38/GitIMG.png)
+![image alt](https://github.com/Suryavanshirohit/Suryavanshirohit/blob/c3aded1a5389c96b1ab74d07a5d49e19f2f4d4d8/GitIMG.png)
                                          Hi👋 I'm Rohit Suryavanshi
 
 <!--
