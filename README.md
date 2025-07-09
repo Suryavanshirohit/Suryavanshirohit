@@ -8,7 +8,7 @@
 <p dir="auto">🌱 I’m completed <strong>Full Stack Java Development</strong> course</p>
 </li>
 <li>
-<p dir="auto">👨‍💻 All of my projects are available at <a href="https://aesthetic-selkie-c45d58.netlify.app/project">Portfolio</a></p>
+<p dir="auto">👨‍💻 All of my projects are available at <a href="https://aesthetic-selkie-c45d58.netlify.app/">Portfolio</a></p>
 </li>
 <li>
 <p dir="auto">📫 How to reach me <strong><a href="mailto:rohitrsuryavanshi@gmail.com">rohitrsuryavanshi@gmail.com</a></strong></p>
